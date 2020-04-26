@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
 
     private void vincularComponentes(){
         numero1EditText     = findViewById(R.id.numero1EditText);
-        numero1EditText     = findViewById(R.id.numero2EditText);
+        numero2EditText     = findViewById(R.id.numero2EditText);
         somaButton          = findViewById(R.id.buttonSoma);
         subtracaoButton     = findViewById(R.id.buttonSubtracao);
         multiplicacaoButton = findViewById(R.id.buttonMultiplicacao);
